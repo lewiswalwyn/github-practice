@@ -5,4 +5,4 @@ const funky = () => {
   const yourMum = "chocolate bunny...";
 };
 
-const newstuuuuffffff = [cat];
+const newstuuuuffffff = ["shneebly weebly woo"];
