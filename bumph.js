@@ -1,8 +1,8 @@
 //#yum
 
 const funky = () => {
-  console.log("up town");
+  console.log("upown");
   const yourMum = "chocolate bunny...";
 };
 
-const newstuuuuffffff = [];
+const newstuuuuffffff = [cat];
