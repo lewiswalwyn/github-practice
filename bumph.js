@@ -2,5 +2,5 @@
 
 const funky = () => {
   console.log("func");
-  const yourMum = "chocolate bunny...";
+  const yourMum = "Amelia is a bumbaclart...";
 };
